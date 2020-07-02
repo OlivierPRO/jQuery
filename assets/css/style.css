@@ -1,0 +1,54 @@
+#fleche1,#fleche2,#fleche3,#fleche4,#fleche5,#fleche6,#fleche7 {
+    -moz-transition: transform 1.5s;
+    -webkit-transition: transform 1.5s;
+    transition: transform 1.5s;
+}
+
+p {
+    font-style: italic;
+}
+
+.gras {
+    font-weight: bold;
+}
+
+#titre,#titre2 {
+    text-transform: uppercase;
+}
+
+#div1,#div2,#div3,#div4,#div5 {
+    width: 500px;
+    height: 250px;
+    background-color: #000;
+}
+
+#div6,#div7,#div8,#div9 {
+    width: 500px;
+    height: 250px;
+    background-color: #000;
+    position: relative;
+    left: 50px;
+}
+
+.btnVoirCode1,.btnVoirCode2,.btnVoirCode3,.btnVoirCode4,.btnVoirCode5,.btnVoirCode6,.btnVoirCode7 {
+    position: relative; 
+    display: inline-block; 
+    float: right;
+}
+
+#logoJquery {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 15%;
+}
+
+.imageCode {
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.chapitre1 {
+    text-align: justify;
+}
